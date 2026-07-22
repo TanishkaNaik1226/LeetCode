@@ -11,4 +11,8 @@ LeetCode Solutions and DSA Practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
