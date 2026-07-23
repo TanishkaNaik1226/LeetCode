@@ -7,6 +7,7 @@ LeetCode Solutions and DSA Practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,8 @@ LeetCode Solutions and DSA Practice
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
