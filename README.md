@@ -17,6 +17,7 @@ LeetCode Solutions and DSA Practice
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0009-palindrome-number) |
+| [2235-add-two-integers](https://github.com/TanishkaNaik1226/LeetCode/tree/master/2235-add-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
