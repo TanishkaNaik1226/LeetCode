@@ -9,6 +9,7 @@ LeetCode Solutions and DSA Practice
 | [0001-two-sum](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0027-remove-element) |
+| [1480-running-sum-of-1d-array](https://github.com/TanishkaNaik1226/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/TanishkaNaik1226/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -33,4 +34,8 @@ LeetCode Solutions and DSA Practice
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/TanishkaNaik1226/LeetCode/tree/master/1929-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/TanishkaNaik1226/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
