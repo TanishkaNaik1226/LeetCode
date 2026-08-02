@@ -9,6 +9,7 @@ LeetCode Solutions and DSA Practice
 | [0001-two-sum](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0027-remove-element) |
+| [1929-concatenation-of-array](https://github.com/TanishkaNaik1226/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,8 @@ LeetCode Solutions and DSA Practice
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0125-valid-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/TanishkaNaik1226/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
