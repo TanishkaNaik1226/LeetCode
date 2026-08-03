@@ -26,10 +26,12 @@ LeetCode Solutions and DSA Practice
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0344-reverse-string) |
 ## Simulation
 |  |
 | ------- |
