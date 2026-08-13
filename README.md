@@ -9,6 +9,7 @@ LeetCode Solutions and DSA Practice
 | [0001-two-sum](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0027-remove-element) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/TanishkaNaik1226/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/TanishkaNaik1226/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/TanishkaNaik1226/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/TanishkaNaik1226/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -20,6 +21,7 @@ LeetCode Solutions and DSA Practice
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/TanishkaNaik1226/LeetCode/tree/master/0009-palindrome-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/TanishkaNaik1226/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/TanishkaNaik1226/LeetCode/tree/master/2235-add-two-integers) |
 ## Two Pointers
 |  |
